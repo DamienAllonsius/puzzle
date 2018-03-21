@@ -1,2 +1,2 @@
 # puzzle
-Tessellaitions of the plan with puzzles
+tessellations of the plan with puzzles
